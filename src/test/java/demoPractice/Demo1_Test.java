@@ -28,6 +28,7 @@ public class Demo1_Test {
 	{
 		System.out.println("hashed");
 		System.out.println("1");
+		System.out.println("2");
 	}
 
 }
