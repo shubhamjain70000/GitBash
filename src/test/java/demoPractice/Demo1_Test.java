@@ -21,5 +21,12 @@ public class Demo1_Test {
 	{
 		System.out.println("deleted");
 	}
+	
+
+	@Test
+	public void hash()
+	{
+		System.out.println("hashed");
+	}
 
 }
