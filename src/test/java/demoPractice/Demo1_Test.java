@@ -27,6 +27,7 @@ public class Demo1_Test {
 	public void hash()
 	{
 		System.out.println("hashed");
+		System.out.println("1");
 	}
 
 }
